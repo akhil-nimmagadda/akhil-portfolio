@@ -7,7 +7,7 @@ This site highlights selected artifacts that demonstrate my learning, skills, an
 
 ## 📂 Portfolio Artifacts
 1. **AI & ML Timeline** → [View Artifact](artifact1-timeline.md)
-
+2. **Professional Self-Assessment** → [View Artifact](artifact2-professional-assessment.md)
 ---
 
 ### 🔧 Technical Skills
