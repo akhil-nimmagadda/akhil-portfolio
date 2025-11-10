@@ -1,58 +1,58 @@
 # 🧭 Artifact 2: Professional Self-Assessment Reflection
 
 ### 🎯 Purpose of the Artifact
-This artifact represents my initial professional self-assessment in AI and Machine Learning. While Artifact #1 focused on conceptual understanding through the AI/ML timeline, this artifact highlights my **self-awareness, career direction, and personal growth mindset** as I develop deeper capabilities in the field.
+This artifact highlights my professional self-assessment, focusing on **who I am as a practitioner**, the skills I currently possess, and the direction I am intentionally pursuing in AI and Machine Learning. It complements Artifact #1 by moving from **concept understanding → personal application and identity development**.
 
 ---
 
 ## 🧑‍💼 Current Professional Identity
-I currently work as a **Data Engineer**, with 7+ years of experience designing and building large-scale data pipelines, cloud-based data platforms, and analytics systems. My hands-on background includes:
+I am a **Senior Data Engineer** with extensive experience designing and managing scalable pipelines, cloud data architectures, and analytics workflows across **Azure, AWS, and GCP** environments. I work daily with tools such as:
 
-- Building scalable data pipelines using **Spark, Python, SQL, Airflow, and Azure Data Factory**
-- Working across **Azure, AWS, and GCP** cloud environments
-- Implementing data ingestion, transformation, orchestration, and automation processes
-- Supporting business insights, reporting, and machine learning integrations  
-  *(Source: Resume — Experience & Skills)*
+- **Python, SQL, Spark, Databricks, Airflow, Azure Data Factory**
+- Cloud-native data storage and orchestration systems
+- Data modeling, workflow optimization, and automation
 
----
-
-## 📈 Strengths Identified in Self-Assessment
-Through the professional self-assessment exercise, I identified several core strengths:
-
-| Strength | Description |
-|--------|-------------|
-| **Technical Depth** | Strong foundation in data engineering, cloud services, and distributed computing. |
-| **Problem-Solving Ability** | I can break down complex challenges into structured solutions. |
-| **Learning Agility** | I am adaptable and able to learn new tools, frameworks, and ML methods quickly. |
-
-These strengths form the base of my transition into more advanced AI/ML work.
+This background gives me a strong foundation for transitioning into **applied ML engineering**.  
+*(Skills supported by my resume experience) :contentReference[oaicite:0]{index=0}*
 
 ---
 
-## 🌱 Areas for Growth
-In evaluating my current capabilities and future goals, I identified key areas for development:
+## ✅ Strengths Identified
+
+| Strength | Evidence / Impact |
+|--------|-------------------|
+| **Data Engineering Mastery** | I can build efficient, scalable, and reliable data pipelines end-to-end. |
+| **Problem-Solving Ability** | I break down complex workflows into modular, maintainable designs. |
+| **Continuous Learning Mindset** | I actively pursue new ML techniques, tools, and deployment workflows. |
+
+These strengths position me well to integrate ML into data workflows and production systems.
+
+---
+
+## 🌱 Growth Areas & Development Focus
 
 | Growth Area | Why It Matters |
 |------------|----------------|
-| **Model Evaluation & Optimization** | To move beyond model training, I need to analyze and refine performance. |
-| **MLOps & Deployment** | To operationalize machine learning in production workflows. |
-| **Explainability & Communication** | To clearly communicate model decisions to business and non-technical stakeholders. |
+| **Model Performance Optimization** | To improve predictive power and reduce drift in real-world systems. |
+| **MLOps / Deployment** | To move beyond experimentation and deliver ML in production environments. |
+| **Explainability & Communication** | To make ML models understandable and trustworthy to stakeholders. |
 
-These growth areas align with my goal to evolve into a **Machine Learning Engineer / Applied AI Engineer** role over time.
+These areas reflect my commitment to **responsible and practical AI**.
 
 ---
 
-## 🎯 Professional Goal Moving Forward
-My next step is to **combine my Data Engineering foundation with applied machine learning** — focusing on:
+## 🎯 Professional Direction
+My long-term trajectory is toward a role where I:
 
-- Designing ML pipelines end-to-end  
-- Integrating ML systems into real business workflows  
-- Using cloud-native ML tools (Azure ML, SageMaker, Databricks)  
-- Practicing responsible, explainable AI development  
+- Design **end-to-end ML systems**
+- Automate model training, evaluation, and deployment
+- Integrate ML models into real-time data workflows
+- Contribute to intelligent, adaptive platform designs
 
-This artifact demonstrates that I understand **not just what I know, but where I am going**.
+In short:  
+**I am developing from Data Engineer → Applied Machine Learning Engineer.**
 
 ---
 
 ### 🔗 Navigation
-Back to Portfolio → [Home](index.md)
+← Back to Portfolio Home: [index.md](index.md)
