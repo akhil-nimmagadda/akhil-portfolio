@@ -6,7 +6,7 @@ This site highlights selected artifacts that demonstrate my learning, skills, an
 ---
 
 ## 📂 Portfolio Artifacts
-1. **AI & ML Timeline** (Coming soon)
+1. **AI & ML Timeline** → [View Artifact](artifact1-timeline.md)
 
 ---
 
