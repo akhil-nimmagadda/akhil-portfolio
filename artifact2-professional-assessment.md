@@ -12,8 +12,7 @@ I am a **Senior Data Engineer** with extensive experience designing and managing
 - Cloud-native data storage and orchestration systems
 - Data modeling, workflow optimization, and automation
 
-This background gives me a strong foundation for transitioning into **applied ML engineering**.  
-*(Skills supported by my resume experience) :contentReference[oaicite:0]{index=0}*
+This background gives me a strong foundation for transitioning into **applied ML engineering**.
 
 ---
 
@@ -51,6 +50,15 @@ My long-term trajectory is toward a role where I:
 
 In short:  
 **I am developing from Data Engineer → Applied Machine Learning Engineer.**
+
+---
+
+## 🪞 Reflection
+Creating Artifact 2 allowed me to engage in a deeper and more intentional reflection on my professional identity and development within the AI/ML field. While Artifact 1 focused on demonstrating technical understanding, Artifact 2 required me to translate my real-world data engineering experience into an academically grounded self-assessment. Throughout the process, I strengthened my ability to critically analyze my strengths, articulate areas for improvement, and connect my industry background to my long-term aspirations in applied ML engineering.
+
+One of the main challenges I encountered was balancing personal insight with academic clarity—particularly when explaining how my engineering skills translate into competencies that support ML model development, deployment, and operationalization. This required several rounds of rewriting and reframing to ensure my reflection aligned with academic expectations while remaining authentic to my experience. Compared to Artifact 1, this artifact pushed me to think more holistically about my learning journey and how each step contributes to my progression from Data Engineer to ML-focused practitioner.
+
+Developing Artifact 2 gave me clearer insight into how my technical background, learning habits, and professional goals intersect. It also reinforced reflection as an essential metacognitive skill that supports continuous growth in AI/ML. This artifact ultimately helps solidify my foundation for future coursework and projects by ensuring I understand not just *what* I want to build, but *who* I am becoming as a practitioner in this field.
 
 ---
 
