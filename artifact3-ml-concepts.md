@@ -21,7 +21,7 @@ The purpose of this artifact is to deeply examine the foundational concepts of M
 
 ---
 
-# 📊 **1. Exploratory Data Analysis (EDA) — Detailed Learning**
+# 📊 **1. Exploratory Data Analysis (EDA) **
 
 Exploratory Data Analysis (EDA) is the essential first phase of any machine learning project. Through my learning process, I gained a deep understanding of how EDA helps uncover patterns, detect issues, and shape modeling decisions long before any algorithm is applied. EDA allows us to move from raw, unstructured data toward meaningful insights that guide feature selection, preprocessing strategies, and overall model direction.
 
@@ -114,7 +114,7 @@ EDA is the difference between building a model that works and a model that “fa
 
 ---
 
-# 🤖 **2. Supervised Learning — Fully Elaborated **
+# 🤖 **2. Supervised Learning **
 
 Supervised Learning is a core machine learning paradigm where models learn patterns from labeled data. Through structured conversation and real-world examples, I gained an in-depth understanding of how supervised models form relationships between features and target outputs, and how prediction quality evolves through optimization.
 
@@ -174,7 +174,7 @@ It provides the foundation for most AI systems used in production today. By unde
 
 ---
 
-# 🧠 **3. Unsupervised Learning — Fully Elaborated **
+# 🧠 **3. Unsupervised Learning  **
 
 Unsupervised Learning focuses on uncovering structures hidden inside unlabeled data. My exploration of unsupervised learning helped me understand how machine learning can reveal insights that humans may never detect manually.
 
@@ -229,7 +229,7 @@ Unsupervised learning enables discovery-driven analytics. It plays a critical ro
 
 ---
 
-# 🎮 **4. Reinforcement Learning — Fully Elaborated **
+# 🎮 **4. Reinforcement Learning **
 
 Reinforcement Learning (RL) focuses on agents learning through interaction with their environment. My exploration of RL provided a deep understanding of decision-making systems that evolve over time.
 
@@ -294,7 +294,7 @@ RL powers systems that make sequential decisions and adapt over time. It enables
 
 ---
 
-# ⚙️ **5. Machine Learning Pipeline — Fully Elaborated **
+# ⚙️ **5. Machine Learning Pipeline **
 
 The ML pipeline is the end-to-end workflow for building, refining, and deploying machine learning models. Through guided learning, I explored each stage in detail.
 
@@ -375,7 +375,7 @@ After training, models must be deployed and continuously monitored for drift, ac
 
 ---
 
-# 📈 **6. Evaluation Metrics & Precision–Recall Trade-offs — Fully Elaborated **
+# 📈 **6. Evaluation Metrics & Precision–Recall Trade-offs **
 
 Evaluation metrics determine how well a model performs. I learned how different industries prioritize different metrics based on risk, cost, and business strategy.
 
