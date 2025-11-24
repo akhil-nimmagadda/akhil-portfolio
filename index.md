@@ -14,7 +14,7 @@ This portfolio showcases selected artifacts from my AI/ML learning journey — h
 | **Artifact 1:** AI & ML Timeline | Demonstrates conceptual understanding of how AI/ML evolved and how modern systems emerged. | ▶️ [View](artifact1-timeline.md) |
 | **Artifact 2:** Professional Self-Assessment | Reflects on my current skills, strengths, growth areas, and direction as an emerging AI/ML practitioner. | ▶️ [View](artifact2-professional-assessment.md) |
 | **Artifact 3:** Understanding EDA, Supervised, Unsupervised & Reinforcement Learning  | Understanding EDA, Supervised, Unsupervised & Reinforcement Learning | [▶ View](artifact3-ml-concepts.md) |
-| **Artifact 4:** Machine Learning Data Challenges & Leadership in AI | Covers data quality issues, preprocessing, privacy/security challenges, bias mitigation, and change leadership in AI/ML integration. | [View](artifact4-data-challenges.md) |
+| **Artifact 4:** Machine Learning Data Challenges & Leadership in AI | Covers data quality issues, preprocessing, privacy/security challenges, bias mitigation, and change leadership in AI/ML integration. | [View](artifact4-data-leadership-bias.md) |
 
 
 More artifacts will be added across upcoming labs and projects.
